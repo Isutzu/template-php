@@ -6,7 +6,7 @@
 
 
 <div class="container">
-<p> working fine  ..! </p>
+<p> working fine</p>
 </div>  
 
 <?php require APPROOT . '/views/inc/footer.php'; ?>
